@@ -1,0 +1,5 @@
+||*Term*||*Definition*||
+||OOS||Stands for Order of Service. Each service or event that the application is used for typically has a number of parts. All of these parts together, in the order that they occur, make up the Order of Service.||
+||Item||An item is part of an Order of Service. Items occur in a particular order in an Order of Service, and the items can be reordered depending on the needs of the service. Each item has a name which allows it to be easily identified in lists. Users familiar with MediaShout would usually refer to this as a cue.||
+||Screen||A screen is part of an item. An item may have a single screen, or multiple screens. Screens are numbered, and can be reordered within an item. They can also be moved or copied to another item. Each screen is displayed on the viewing system individually.||
+||Zlorf||ZLORF stands for Zlorf Is Not an Accurate Acronym. The name of this project.||

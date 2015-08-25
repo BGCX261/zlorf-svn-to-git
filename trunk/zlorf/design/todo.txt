@@ -1,0 +1,20 @@
+TODO (non-ordered):
+
+	Finish the screen handling code.
+	Make the view use a OOSItem for default preview display.
+
+	Make the tree reference real objects.
+	Add ability to click on tree objects and make them appear (preview + main display)
+	Add ability to save the tree to an OOS file (or more than one to start
+	with?)
+	Add ability to load an OOS file to the tree / subtree.
+	Add compressed file handling (so OOS is smaller).
+
+	Add support for song database.
+	Add support for creating a song OOSItem fron database.
+	Add support for multiple screens in songs.
+
+	Add support for adding songs to database.
+	Add ability to create a new OOSItem for image / video.
+
+	Work out how to handle a background image with foreground text in UI.

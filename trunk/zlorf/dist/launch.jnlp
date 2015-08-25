@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="$$codebase" href="launch.jnlp">
+    <information>
+        <title>Zlorf</title>
+        <vendor>Mount Pleasant Baptist Church</vendor>
+        <description>Zlorf</description>
+        <description kind="short">Zlorf</description>
+        <homepage href="http://nicgarner.co.uk/zlorf"/>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.6+"/>
+        <jar href="zlorf.jar" main="true" download="eager"/>
+    </resources>
+    <application-desc main-class="org.zlorf.view.ZlorfBasicView">
+    </application-desc>
+</jnlp>
